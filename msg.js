@@ -8,3 +8,4 @@ function msg(){
 function a(){
     alert(value2);//Accedo variable global de la funcion msg
 }
+
